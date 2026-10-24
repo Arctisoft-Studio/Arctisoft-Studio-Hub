@@ -26,7 +26,7 @@ Arctisoft Studio Hub is the free companion to the Arctisoft collection. Install,
 
 ## Capabilities
 
-- **Applications.** Install, launch, repair and remove WaveShaper, Sonaris, MetaEdit and Medio; read release notes; pin a version you want to keep.
+- **Applications.** Install, launch, repair and remove WaveShaper, Sonaris, Notalis and Medio; read release notes; pin a version you want to keep.
 - **Updates.** Choose whether Hub checks for and installs application updates while it is open. Pinned versions are preserved.
 - **One sign-in.** The sign-in you make in Hub is shared with the applications on your Windows account, protected by Windows for your user.
 - **Licenses and purchases.** Register product keys, see the major version each license covers, release a computer to use a license elsewhere, transfer a license where its terms allow, and export purchase records and license documents as PDF.
@@ -42,7 +42,7 @@ Guest mode provides application management, the store, release information and h
 | --- | --- | --- |
 | [WaveShaper](https://github.com/Arctisoft-Studio/WaveShaper-Audio-Processing-Studio) | Audio processing, repair, mastering and delivery | Basic · Premium |
 | [Sonaris](https://github.com/Arctisoft-Studio/Sonaris-Audio-Quality-Analyzer) | Audio measurement, comparison and delivery checks | Basic · Premium |
-| [MetaEdit](https://github.com/Arctisoft-Studio/MetaEdit-Advanced-Tag-Editor) | Metadata, artwork and library care | Basic · Premium |
+| [Notalis](https://github.com/Arctisoft-Studio/Notalis-Advanced-Tag-Editor) | Metadata, artwork and library care | Basic · Premium |
 | [Medio](https://github.com/Arctisoft-Studio/Medio-Universal-Downloader) | Media downloading and conversion | Basic · Premium |
 
 Studio Hub itself is free. Premium licenses belong to the individual applications; see [current editions and pricing](https://arctisoft-studio.com/pricing/).
