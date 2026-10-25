@@ -26,7 +26,7 @@ Arctisoft Studio Hub is the free companion to the Arctisoft collection. Install,
 
 ## Capabilities
 
-- **Applications.** Install, launch, repair and remove WaveShaper, Sonaris, Notalis and Cascera; read release notes; pin a version you want to keep.
+- **Applications.** Install, launch, repair and remove Fidena, Revelis, Notalis and Cascera; read release notes; pin a version you want to keep.
 - **Updates.** Choose whether Hub checks for and installs application updates while it is open. Pinned versions are preserved.
 - **One sign-in.** The sign-in you make in Hub is shared with the applications on your Windows account, protected by Windows for your user.
 - **Licenses and purchases.** Register product keys, see the major version each license covers, release a computer to use a license elsewhere, transfer a license where its terms allow, and export purchase records and license documents as PDF.
@@ -40,8 +40,8 @@ Guest mode provides application management, the store, release information and h
 
 | Application | For | Editions |
 | --- | --- | --- |
-| [WaveShaper](https://github.com/Arctisoft-Studio/WaveShaper-Audio-Processing-Studio) | Audio processing, repair, mastering and delivery | Basic · Premium |
-| [Sonaris](https://github.com/Arctisoft-Studio/Sonaris-Audio-Quality-Analyzer) | Audio measurement, comparison and delivery checks | Basic · Premium |
+| [Fidena](https://github.com/Arctisoft-Studio/Fidena-Audio-Processing-Studio) | Audio processing, repair, mastering and delivery | Basic · Premium |
+| [Revelis](https://github.com/Arctisoft-Studio/Revelis-Audio-Quality-Analyzer) | Audio measurement, comparison and delivery checks | Basic · Premium |
 | [Notalis](https://github.com/Arctisoft-Studio/Notalis-Advanced-Tag-Editor) | Metadata, artwork and library care | Basic · Premium |
 | [Cascera](https://github.com/Arctisoft-Studio/Cascera-Universal-Downloader) | Media downloading and conversion | Basic · Premium |
 
