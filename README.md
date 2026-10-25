@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="images/hub-logo.png" alt="Arctisoft Studio Hub" width="96" height="96">
+  <img src="images/hub-icon.png" alt="Arctisoft Studio Hub" width="96" height="96">
 </p>
 
 <h1 align="center">Arctisoft Studio Hub</h1>
 
 <p align="center"><strong>Applications, Account &amp; Licenses for Windows</strong></p>
 
-<p align="center">Your Arctisoft collection, managed from one place. Free.</p>
+<p align="center">Your Arctisoft collection, managed from one place, free of charge</p>
 
 <p align="center">
   <a href="https://github.com/Arctisoft-Studio/Arctisoft-Studio-Hub/releases/latest"><strong>Download</strong></a> ·
