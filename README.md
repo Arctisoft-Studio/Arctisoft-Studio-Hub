@@ -62,7 +62,7 @@ Studio Hub itself is free. Premium licenses belong to the individual application
 2. Run the installer and accept the license agreement.
 3. Start Studio Hub and sign in, or continue as a guest.
 
-Studio Hub checks for a newer version of itself when it starts and installs it only after verifying the checksum GitHub publishes for the release. Applications are downloaded from their official release repositories in this organisation.
+Studio Hub checks for a newer version of itself when it starts and installs it only after verifying the checksum GitHub publishes for the release. Applications are downloaded from their official release repositories in this organization.
 
 ## Accounts and privacy
 
@@ -78,4 +78,4 @@ Studio Hub is proprietary software provided free of charge. This repository hold
 
 ---
 
-<p align="center"><sub>© 2025–2026 Arctisoft Studio · Bernd Julian Hagen · Austria. All rights reserved.</sub></p>
+<p align="center"><sub>© 2025–2026 Arctisoft Studio. All rights reserved.</sub></p>
